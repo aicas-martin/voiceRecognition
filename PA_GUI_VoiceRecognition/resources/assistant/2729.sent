@@ -1,0 +1,57 @@
+<s> WAKE UP </s>
+<s> SLEEP </s>
+<s> EXIT </s>
+<s> BACK </s>
+<s> SPEAK </s>
+<s> CHANGE </s>
+<s> MAXIMIZE </s>
+<s> MINIMIZE </s>
+<s> NEXT </s>
+<s> HELLO TRANSCRIBER </s>
+<s> HELLO ASSISTANT </s>
+<s> TRANSCRIBER </s>
+<s> ASSISTANT </s>
+<s> SPEAKER </s>
+<s> ALIGNER </s>
+<s> REC </s>
+<s> OPEN </s>
+<s> PLAY </s>
+<s> DIALOG </s>
+<s> DIGITS </s>
+<s> BANK ACCOUNT </s>
+<s> OPEN BROWSER </s>
+<s> CLOSE BROWSER </s>
+<s> OPEN THUNDERBIRD </s>
+<s> CLOSE THUNDERBIRD </s>
+<s> OPEN TERMINAL </s>
+<s> CLOSE TERMINAL </s>
+<s> OPEN TEAMS </s>
+<s> CLOSE TEAMS </s>
+<s> UP </s>
+<s> DOWN </s>
+<s> LEFT </s>
+<s> RIGHT </s>
+<s> TOP </s>
+<s> PRESS </s>
+<s> TOUCH </s>
+<s> OPTION </s>
+<s> 1 </s>
+<s> 2 </s>
+<s> 3 </s>
+<s> 4 </s>
+<s> 5 </s>
+<s> 6 </s>
+<s> 7 </s>
+<s> 8 </s>
+<s> 9 </s>
+<s> 0 </s>
+<s> 10 </s>
+<s> 20 </s>
+<s> 30 </s>
+<s> 40 </s>
+<s> 50 </s>
+<s> 60 </s>
+<s> 70 </s>
+<s> 80 </s>
+<s> 90 </s>
+<s> 100 </s>

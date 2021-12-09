@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pa_voice_recognition.PA_GUI_VoiceRecognition.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.16 s - in com.pa_voice_recognition.PA_GUI_VoiceRecognition.AppTest
