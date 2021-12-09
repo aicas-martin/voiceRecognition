@@ -5,7 +5,7 @@
 ======================================
  
         - README.md (contains all the necessary information about the project)
-        - Voice_recognition-with-gui-ihk_project (main project folder) >
+        - voiceRecognition-main (main project folder) >
                                                                     - Documentation (Official documentation of the process)
                                                                     - Images_Doc (Supporting images, infographics, screenshots and diagrams)
                                                                     - Libraries (Libraries used by the application)
@@ -84,7 +84,7 @@ https://jira.aicas.de/browse/ICDA-16
 
 
 **Project voice commands**:
-======================
+========================
 
 You can control the graphical interface by pressing the corresponding buttons or by using the following voice commands:
 
@@ -125,13 +125,13 @@ You can control the graphical interface by pressing the corresponding buttons or
 
 
 **Instructions for use**:
-=====================
+======================
 
 **1. Clone the gitlab repository**
  
     $ git clone https://gitrepos.aicas.de/martin/voice_recognition-with-gui-ihk_project.git
 
-    $ cd Voice_recognition-with-gui-ihk_project
+    $ cd voiceRecognition-main
 
 
 **2. Import the Maven Project**
