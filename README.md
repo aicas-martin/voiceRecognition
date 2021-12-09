@@ -40,7 +40,7 @@ This project consists of integrating a graphical interface to a voice recognitio
 **CMUSphinx**
 =========
     
-- **Repository**: https://gitrepos.aicas.de/martin/voice_recognition-with-gui-ihk_project
+- **Repository**: https://github.com/aicas-martin/voiceRecognition.git
 - **Tutorial**: https://cmusphinx.github.io/wiki/tutorial/
 - **External Libraries**: https://oss.sonatype.org/#nexus-search;quick~sphinx
 - **TranscriberDemo**: https://github.com/cmusphinx/sphinx4/blob/master/sphinx4-samples/src/main/java/edu/cmu/sphinx/demo/transcriber/TranscriberDemo.java
@@ -129,7 +129,7 @@ You can control the graphical interface by pressing the corresponding buttons or
 
 **1. Clone the gitlab repository**
  
-    $ git clone https://gitrepos.aicas.de/martin/voice_recognition-with-gui-ihk_project.git
+    $ git clone https://github.com/aicas-martin/voiceRecognition.git
 
     $ cd voiceRecognition-main
 
